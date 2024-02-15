@@ -14,7 +14,7 @@ Welcome to the Agent Badge Generator, a project born out of the **eFeza challeng
 
 # Design Sneak Peek:
 
-Get a glimpse of the application's design on [Figma]('https://www.figma.com/file/eXYqKizuq0qcGL75WHWLNi/eFeza-Badge-Challenge_Version2?type=design&node-id=2%3A2&mode=design&t=yLc3dHVOWehAILfM-1') for a taste of what's to come.
+Get a glimpse of the application's design on [Figma](https://www.figma.com/file/eXYqKizuq0qcGL75WHWLNi/eFeza-Badge-Challenge_Version2?type=design&node-id=2%3A2&mode=design&t=yLc3dHVOWehAILfM-1) for a taste of what's to come.
 
 # Live Demo:
 Experience the Agent Badge Generator in action with our live demo.
