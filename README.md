@@ -25,6 +25,7 @@ Experience the Agent Badge Generator in action with our live demo.
 
 Clone the repository:
 
+    https://github.com/clvrdesign/simpleButNotEasy.git
 
 Open
 
