@@ -18,7 +18,7 @@ Get a glimpse of the application's design on [Figma](https://www.figma.com/file/
 
 # Live Demo:
 Experience the Agent Badge Generator in action with our live demo.
-eFeza Badge Generator
+[eFeza Badge Generator](https://clvrdesign.github.io/simpleButNotEasy/)
 
 
 # Usage
